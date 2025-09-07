@@ -1,7 +1,0 @@
- .gambar-bulat {
-      width: 200px;       /* ukuran gambar */
-      height: 200px;      /* biar bentuknya konsisten */
-      border-radius: 50%; /* bikin bulat sempurna */
-      object-fit: cover;  /* biar isi gambar tetap proporsional */
-      border: 4px solid #333; /* kasih border hitam */
-    }
